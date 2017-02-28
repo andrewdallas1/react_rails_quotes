@@ -1,24 +1,14 @@
-# README
+# Ron Swanson Quotes
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a fun react on rails application 
+which displays quotes from Ron Swanson of
+Parks and Recreation.
 
-Things you may want to cover:
+###To install this application:
+1. Clone this repository.
+2. Run `bundle && npm install` in your terminal
+3. Then run `bin/rails server` and visit localhost:3000
+4. Thats it, you are good to go!
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I enjoyed this project beacause it was my first combining React and Rails and it is just a simple application that can bring someone a little joy.
